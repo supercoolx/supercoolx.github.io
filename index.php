@@ -338,7 +338,7 @@
                                                                                         </a>
                                                                                     </div>
                                                                                     <div class="iq-portfolio-info">
-                                                                                        <h4><a href="#">Android – IOS App Development</a></h4>
+                                                                                        <h4><a href="#">Android - IOS App Development</a></h4>
                                                                                         <span>React Native-Java-Swift-XAML</span>
                                                                                     </div>
                                                                                 </div>
