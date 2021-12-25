@@ -498,7 +498,7 @@
                                                                     <div class="vc_column-inner vc_custom_1562240288183">
                                                                         <div class="wpb_wrapper">
                                                                             <div class="iqonic-awards wow fadeInUp" onmousemove="color_hover(event)" style="visibility: hidden; animation-name: none;">
-                                                                                <img src="./src/Javascript.png" alt="awards">
+                                                                                <img src="./src/javascript.png" alt="awards">
                                                                                 <h5><span>Javascript</span></h5>
                                                                             </div>
                                                                         </div>
