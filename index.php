@@ -638,7 +638,6 @@
                                                         </a>
                                                     </li>
                                                     <li>
-                                                    Skype: 
                                                         <a href="https://join.skype.com/invite/Kskd12mCBozG" target="_blank">
                                                             <span class="__cf_email__">https://join.skype.com/invite/Kskd12mCBozG</span>
                                                         </a>
