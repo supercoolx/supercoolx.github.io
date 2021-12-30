@@ -632,13 +632,15 @@
                                             <div class="col-sm-12">
                                                 <ul class="iq-contact">
                                                     <li>
-                                                        <a href="#">
-                                                            Email: <span class="__cf_email__">dm.kondratov.git@gmail.com</span>
+                                                    Email: 
+                                                        <a href="mailto:dm.kondratov.git@gmail.com" target="_blank">
+                                                            <span class="__cf_email__">dm.kondratov.git@gmail.com</span>
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="#">
-                                                            Skype: <span class="__cf_email__">live:.cid.f7e685a9a7b74d86</span>
+                                                    Skype: 
+                                                        <a href="https://join.skype.com/invite/Kskd12mCBozG" target="_blank">
+                                                            <span class="__cf_email__">https://join.skype.com/invite/Kskd12mCBozG</span>
                                                         </a>
                                                     </li>
                                                 </ul>
